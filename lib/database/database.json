@@ -1,0 +1,30 @@
+{
+  "users": {
+    "6282189387018@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "1000"
+    }
+  },
+  "chats": {
+    "6282189387018@s.whatsapp.net": {
+      "mute": false,
+      "antilink": true
+    }
+  },
+  "database": {},
+  "game": {},
+  "settings": {
+    "6282189387018@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false,
+      "templateLocation": false
+    }
+  },
+  "others": {},
+  "sticker": {}
+}
